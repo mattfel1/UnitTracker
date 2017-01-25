@@ -7,6 +7,7 @@ fi
 
 errors=(`cat results | grep -i "fail\|unknown" | wc -l`)
 if [[ $errors != 0 ]]; then
+  cat results
   echo "FAIL: Errors found"
   exit 1
 else
