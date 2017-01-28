@@ -18,5 +18,5 @@
 **pass.13_InOutArg**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_InOutArg.png)  
 **pass.12_BlockReduce2D**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_BlockReduce2D.png)  
 **pass.11_UnalignedLd**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_UnalignedLd.png)  
+**pass.10_BlockReduce1D**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_BlockReduce1D.png)  
 **pass.0_SimpleSequential**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_SimpleSequential.png)  
-<----failed_execution_validation.10_BlockReduce1D[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_BlockReduce1D.png)  
