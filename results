@@ -11,6 +11,7 @@
 **pass.1_SimpleTileLoadStore**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_SimpleTileLoadStore.png)  
 **pass.19_SequentialWrites**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_SequentialWrites.png)  
 **pass.18_BubbledWriteTest**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_BubbledWriteTest.png)  
+**pass.17_MultiplexedWriteTest**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_MultiplexedWriteTest.png)  
 **pass.16_MemTest2D**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_MemTest2D.png)  
 **pass.15_MemTest1D**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_MemTest1D.png)  
 **pass.14_ScalarMath**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_ScalarMath.png)  
@@ -19,4 +20,3 @@
 **pass.11_UnalignedLd**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_UnalignedLd.png)  
 **pass.10_BlockReduce1D**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_BlockReduce1D.png)  
 **pass.0_SimpleSequential**[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_SimpleSequential.png)  
-<----failed_execution_validation.17_MultiplexedWriteTest[🗠](https://raw.githubusercontent.com/wiki/stanford-ppl/spatial/chisel_MultiplexedWriteTest.png)  
